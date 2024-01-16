@@ -1,1 +1,12 @@
-{}
+{
+  "name": "testing.com",
+  "index": {
+    "title": "Welcome to Frontaid CMS",
+    "text": "<h1>Welcome</h1><p>Silly nonsense</p>"
+  },
+  "blog": [
+    {
+      "date": "2024-01-16"
+    }
+  ]
+}
