@@ -7,7 +7,7 @@
   "index": {
     ":description": "Content for the index page",
     "title": {":type": "line"},
-    "text":  {":type": "text"}
+    "text":  {":type": "text", ":richtext": true}
   },
   "blog": {
     ":description": "List of blog posts",
