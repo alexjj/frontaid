@@ -14,7 +14,7 @@
     ":items": {
       "date": {":type": "line"},
       ":items": {
-        "title": {":type": "text"}
+        "title": {":type": "text"},
         "text":  {":type": "text", ":richtext": true}
       }
       
